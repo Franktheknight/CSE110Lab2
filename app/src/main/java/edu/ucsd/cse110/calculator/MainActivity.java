@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // There is a bug in this function! One of your exercises is to find it!
 
         // Hello world this is a new commen!
-        //this is adding a comment
+        //this is adding a comment to begin
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
